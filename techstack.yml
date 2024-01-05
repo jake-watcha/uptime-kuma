@@ -1,7 +1,8 @@
 repo_name: jake-watcha/uptime-kuma
 report_id: e77be3c8bac19b92076babf5311f8f27
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T04:52:32+00:00'
+timestamp: '2024-01-05T09:01:09+00:00'
 requested_by: louislam
 provider: github
 branch: master
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: extra/exe-builder/UptimeKuma.csproj
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/UptimeKuma.csproj
   detection_source: extra/exe-builder/UptimeKuma.csproj
   last_updated_by: Louis Lam
   last_updated_on: 2022-10-06 04:08:10.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -41,6 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -51,6 +54,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -61,6 +65,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package.json
   detection_source: package.json
   last_updated_by: LouisLam
   last_updated_on: 2021-06-24 13:42:03.000000000 Z
@@ -72,7 +77,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
-  detection_source: db/patch9.sql
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/db/patch-2fa-invalidate-used-token.sql
+  detection_source: db/patch-2fa-invalidate-used-token.sql
   last_updated_by: Andreas Brett
   last_updated_on: 2021-10-18 22:42:33.000000000 Z
 - name: TypeScript
@@ -84,6 +90,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -95,6 +102,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -109,7 +117,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-07-03 19:54:56.000000000 Z
@@ -122,7 +130,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-07-03 19:54:56.000000000 Z
@@ -137,7 +145,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: David Twigger
   last_updated_on: 2023-01-10 07:18:45.000000000 Z
@@ -149,6 +157,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-09-13 14:22:01.000000000 Z
@@ -162,7 +171,7 @@ tools:
   category: Libraries
   sub_category: Javascript MVC Frameworks
   image_url: https://img.stackshare.io/service/3837/paeckCWC.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Matthew Nickson
   last_updated_on: 2022-10-08 07:01:47.000000000 Z
@@ -174,6 +183,7 @@ tools:
   category: Data Stores
   sub_category: Message Queue
   image_url: https://img.stackshare.io/service/3670/mqtticon-large_400x400.png
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package.json
   detection_source: package.json
   last_updated_by: LouisLam
   last_updated_on: 2021-06-24 13:42:03.000000000 Z
@@ -186,6 +196,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/2445/ZKsJsucq_400x400.jpg
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package.json
   detection_source: package.json
   last_updated_by: LouisLam
   last_updated_on: 2021-06-24 13:42:03.000000000 Z
@@ -197,6 +208,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-25 19:23:02.000000000 Z
@@ -208,6 +220,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package.json
   detection_source: package.json
   last_updated_by: LouisLam
   last_updated_on: 2021-06-24 13:42:03.000000000 Z
@@ -219,6 +232,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package.json
   detection_source: package.json
   last_updated_by: LouisLam
   last_updated_on: 2021-06-24 13:42:03.000000000 Z
@@ -232,7 +246,7 @@ tools:
   category: Data Stores
   sub_category: In-Memory Databases
   image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: long2ice
   last_updated_on: 2023-01-05 14:58:24.000000000 Z
@@ -245,7 +259,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2023-01-09 05:42:53.000000000 Z
@@ -259,8 +273,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
+  detection_source: babel.config.js
   last_updated_by: Louis Lam
   last_updated_on: 2022-04-17 07:27:35.000000000 Z
 - name: Cypress
@@ -274,7 +288,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/9231/default_66c5c1a197dcd0232e41e4ab6299d119b4e165b3.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: David Twigger
   last_updated_on: 2023-01-10 07:18:45.000000000 Z
@@ -287,6 +301,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma
   detection_source: Repo Metadata
 - name: Dotenv
   description: Loads environment variables from .env for Nodejs projects
@@ -297,6 +312,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-01 12:07:08.000000000 Z
@@ -309,6 +325,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package.json
   detection_source: package.json
   last_updated_by: LouisLam
   last_updated_on: 2021-06-24 13:42:03.000000000 Z
@@ -321,6 +338,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/20932/default_0d33a14bfbacce3a8e941836ff542881b7e5223e.png
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -332,6 +350,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -341,7 +360,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
-  detection_source: ".github/workflows/stale-bot.yml"
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/.github/workflows/auto-test.yml
+  detection_source: ".github/workflows/auto-test.yml"
   last_updated_by: David Twigger
   last_updated_on: 2023-01-10 07:24:15.000000000 Z
 - name: Jest
@@ -354,7 +374,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: LouisLam
   last_updated_on: 2021-06-24 13:42:03.000000000 Z
@@ -366,6 +386,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-20 12:26:53.000000000 Z
@@ -379,6 +400,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package.json
   detection_source: package.json
   last_updated_by: David Twigger
   last_updated_on: 2023-01-10 07:18:45.000000000 Z
@@ -390,6 +412,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package.json
   detection_source: package.json
   last_updated_by: LouisLam
   last_updated_on: 2021-06-24 13:42:03.000000000 Z
@@ -403,7 +426,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Matthew Nickson
   last_updated_on: 2022-10-08 07:01:47.000000000 Z
@@ -416,6 +439,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/UptimeKuma.sln
   detection_source: extra/exe-builder/UptimeKuma.sln
   last_updated_by: Louis Lam
   last_updated_on: 2022-10-06 04:08:10.000000000 Z
@@ -427,6 +451,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package.json
   detection_source: package.json
   last_updated_by: LouisLam
   last_updated_on: 2021-06-24 13:42:03.000000000 Z
@@ -438,6 +463,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma
   detection_source: Repo Metadata
 - name: Prism
   description: An extensible syntax highlighter, built with modern web standards
@@ -449,7 +475,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-10-09 08:02:47.000000000 Z
@@ -462,6 +488,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma
   detection_source: Repo Metadata
 - name: axios
   description: Promise based HTTP client for the browser and node.js
@@ -473,7 +500,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-11-25 06:00:33.000000000 Z
@@ -487,7 +514,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13752/default_1ec7b75e4d233f940c213992649575a79a936406.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -502,7 +529,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12907/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -515,7 +542,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13149/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -529,7 +556,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12843/default_0f5233770e71818507f2339042e7e61bef904e70.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -543,7 +570,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/nuget/image.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -557,7 +584,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13144/default_a5e8cd728170fc92850284a53a17ff7deb73f318.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -571,7 +598,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13038/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -584,7 +611,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12855/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -599,7 +626,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12925/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -613,7 +640,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12992/default_971bb108ce002c2032e407a9046135e1542c46c7.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -627,7 +654,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12887/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -641,7 +668,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13012/default_dd10728859f7e363ef13345d855b2daba48cace4.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -655,7 +682,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12946/default_3bbc310dbe28a83b0e799743dc3f0afaa77665c9.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -669,7 +696,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13072/default_a057bdad489be3cb053d372a68695da4ac94962d.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -682,7 +709,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12895/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -696,7 +723,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13335/default_9a849f196ca7930b27f663ae8f15c937ea1b49e5.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -709,7 +736,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12901/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -723,7 +750,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12997/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -737,7 +764,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13240/default_43ce02ab18bb400d4d6b410ac4dc3a50f87e634a.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -751,7 +778,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12931/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -764,7 +791,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13111/default_623cfb3f5700f77ec1aadc91de41d13f3aa2ae3d.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -778,7 +805,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12857/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -792,7 +819,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12924/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -805,7 +832,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12974/default_d871263d8798790404638a4d3692cc70b6389166.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -818,7 +845,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12860/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -832,7 +859,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12985/default_dd10728859f7e363ef13345d855b2daba48cace4.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -846,7 +873,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13036/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -860,7 +887,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13087/default_1b8be57b16f1f491c0e5f67e5d1021f4df68ea30.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -874,7 +901,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12994/default_971bb108ce002c2032e407a9046135e1542c46c7.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -888,7 +915,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12874/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -901,7 +928,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12900/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -914,7 +941,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13006/default_12f7186a6d439da94c192c70c3589768d943782d.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -928,7 +955,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12898/default_1763b424d3c06c730dd020813f1a1a6ffb953bc2.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -941,7 +968,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12849/default_0f5233770e71818507f2339042e7e61bef904e70.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -955,7 +982,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12872/default_1763b424d3c06c730dd020813f1a1a6ffb953bc2.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -970,7 +997,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13103/default_9a42ff760d96a634e61dad6d7a7d76e2d1506229.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -983,7 +1010,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12908/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -996,7 +1023,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12960/default_cd4457378b2b3dee674f43707df49edfbc5c04e5.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -1011,7 +1038,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13039/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -1025,7 +1052,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12929/default_039376cf26bae25623c106aea6185b89980a1e50.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -1038,7 +1065,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13179/default_42e87535b59c0cd77a89678c1c4ed24abc143f58.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -1051,7 +1078,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13109/default_f0c74e534077001eb65a152707758ce46a2dc970.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -1065,7 +1092,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13009/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -1079,7 +1106,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12933/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -1093,7 +1120,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12973/default_3bbc310dbe28a83b0e799743dc3f0afaa77665c9.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -1107,7 +1134,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12916/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -1121,7 +1148,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12861/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -1135,7 +1162,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12899/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -1149,7 +1176,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13016/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -1163,7 +1190,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12962/default_bd8397841d0aa5de035298a9130ee2dc9d9b0ece.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -1176,7 +1203,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12964/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
-  detection_source_url: extra/exe-builder/packages.config
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/extra/exe-builder/packages.config
   detection_source: extra/exe-builder/packages.config
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-21 08:03:41.000000000 Z
@@ -1190,7 +1217,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-13 08:26:45.000000000 Z
@@ -1204,7 +1231,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16644/default_50c9ed1615a25628505ab53def64d82450ced26b.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-12-04 13:41:08.000000000 Z
@@ -1218,7 +1245,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18157/default_63cbe387694d6d77dde61448de98c6bd2a9b18de.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-10-09 08:02:47.000000000 Z
@@ -1232,7 +1259,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16683/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-10-09 08:02:47.000000000 Z
@@ -1246,7 +1273,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18329/default_fcb0000f89932f65c58527fdec74a1b27eb78a83.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-10-10 08:23:32.000000000 Z
@@ -1260,7 +1287,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17175/default_910830d687176198a61da14da59a653ebc555fa0.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-09-12 10:33:46.000000000 Z
@@ -1274,7 +1301,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16857/default_627f05e6a07ce29fc9f119417270f38e8aa5c5e2.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: LouisLam
   last_updated_on: 2021-10-01 08:48:23.000000000 Z
@@ -1288,7 +1315,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15949/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-10-09 08:02:47.000000000 Z
@@ -1302,7 +1329,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17775/default_65e03f67ad735337587d736d5fbc87b538eccdf7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: David Twigger
   last_updated_on: 2023-01-10 07:18:45.000000000 Z
@@ -1316,7 +1343,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18070/image.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: tamasmagyar
   last_updated_on: 2022-06-16 06:06:34.000000000 Z
@@ -1330,7 +1357,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18084/image.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2023-03-20 10:07:54.000000000 Z
@@ -1344,7 +1371,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16187/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2023-03-20 10:07:54.000000000 Z
@@ -1358,7 +1385,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-12-12 07:42:00.000000000 Z
@@ -1372,7 +1399,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-12-04 13:41:08.000000000 Z
@@ -1386,7 +1413,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-13 08:26:45.000000000 Z
@@ -1401,7 +1428,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16833/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-10-09 08:02:47.000000000 Z
@@ -1415,7 +1442,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16897/default_143d92b1fc944107cf48a3ab42a2a347bf3d91b5.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: tamasmagyar
   last_updated_on: 2022-06-16 06:06:34.000000000 Z
@@ -1429,7 +1456,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Matthew Nickson
   last_updated_on: 2022-10-08 07:01:47.000000000 Z
@@ -1443,7 +1470,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: David Twigger
   last_updated_on: 2023-01-10 07:18:45.000000000 Z
@@ -1457,7 +1484,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16415/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2023-01-09 05:42:53.000000000 Z
@@ -1471,7 +1498,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17334/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2023-03-20 10:07:54.000000000 Z
@@ -1485,7 +1512,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16350/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-10-15 07:18:54.000000000 Z
@@ -1499,7 +1526,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17662/default_894a45ad01fa93ac472db719cb1ef1b89f2924f0.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-10-09 08:02:47.000000000 Z
@@ -1513,7 +1540,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16155/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2023-01-04 07:55:36.000000000 Z
@@ -1527,7 +1554,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17395/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-10-09 08:02:47.000000000 Z
@@ -1541,7 +1568,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16065/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2023-02-13 08:26:45.000000000 Z
@@ -1555,7 +1582,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16671/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-11-24 17:32:33.000000000 Z
@@ -1569,7 +1596,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17208/default_183829c5079b84333a720d8590a328efc043ba0e.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Matthew Nickson
   last_updated_on: 2023-02-26 19:36:50.000000000 Z
@@ -1583,7 +1610,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16278/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2023-03-04 13:03:46.000000000 Z
@@ -1597,7 +1624,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: LouisLam
   last_updated_on: 2021-06-24 13:42:03.000000000 Z
@@ -1611,7 +1638,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16233/default_dc80ff0a17bac19253430a4f0f586714841116db.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-10-09 08:02:47.000000000 Z
@@ -1625,7 +1652,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16351/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-10-09 08:02:47.000000000 Z
@@ -1639,7 +1666,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18412/default_863e53b96f84b4092f7c0ba36b8cee4bf60d33fe.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-10-29 15:29:33.000000000 Z
@@ -1653,7 +1680,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16784/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-09-13 14:22:01.000000000 Z
@@ -1675,7 +1702,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17638/default_9126b5a628d81e3d41c9b1190587ab1aec9165c5.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-10-09 08:02:47.000000000 Z
@@ -1689,7 +1716,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16125/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: LouisLam
   last_updated_on: 2021-06-24 13:42:03.000000000 Z
@@ -1703,7 +1730,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17643/default_2b5fe3dc5bfc4e83a84162459ff612ac6febd61a.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-09-12 10:33:46.000000000 Z
@@ -1717,7 +1744,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: LouisLam
   last_updated_on: 2021-10-01 08:48:23.000000000 Z
@@ -1731,7 +1758,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16164/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2023-01-09 05:42:53.000000000 Z
@@ -1745,7 +1772,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16266/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2023-03-04 13:03:46.000000000 Z
@@ -1759,7 +1786,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: LouisLam
   last_updated_on: 2021-06-24 13:42:03.000000000 Z
@@ -1773,7 +1800,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-10-09 08:02:47.000000000 Z
@@ -1787,7 +1814,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: LouisLam
   last_updated_on: 2021-06-24 13:42:03.000000000 Z
@@ -1801,7 +1828,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16963/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-10-10 08:23:32.000000000 Z
@@ -1815,7 +1842,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-10-10 08:23:32.000000000 Z
@@ -1829,7 +1856,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17468/default_911633508f32a5d5016c37ab38144cd661ceb682.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-07-18 15:32:45.000000000 Z
@@ -1844,7 +1871,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17821/default_a53af9d6b5a4c8c6e8d5f8494d76a8d2efd3e660.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/jake-watcha/uptime-kuma/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Louis Lam
   last_updated_on: 2022-04-25 18:18:14.000000000 Z
